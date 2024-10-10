@@ -1,2 +1,2 @@
 # repository-basic
-2020732062 윤준식
+2000-11-04 Junsik-Yoon
