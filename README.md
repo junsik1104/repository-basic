@@ -1,14 +1,15 @@
 2020732062 윤준식 
-![KakaoTalk_20241014_141526440](https://github.com/user-attachments/assets/4290dda4-a4d8-4b2b-8d39-4605e164fb20)
+![KakaoTalk_20241014_143843199_04](https://github.com/user-attachments/assets/106528aa-d6af-4079-81df-b1e2069841c4)
 
-![KakaoTalk_20241014_140057516_01](https://github.com/user-attachments/assets/814b2aa3-0593-4b74-bd26-bec001882b54)
+![KakaoTalk_20241014_143843199](https://github.com/user-attachments/assets/0db354e1-3d6c-4076-bf0d-a72e26623a19)
 
-![KakaoTalk_20241014_140057516_02](https://github.com/user-attachments/assets/0351671b-b940-4c69-b42c-cc233ac6bc7f)
-매트랩으로 푼것은 바로 아래에 첨부
-<img width="505" alt="제어 문제 3 " src="https://github.com/user-attachments/assets/e5a00115-15a8-4a38-963d-96a44a12799b">
+![KakaoTalk_20241014_143843199_01](https://github.com/user-attachments/assets/9beb0ca4-a7f3-422f-8ce7-53e955fddc30)
 
-![KakaoTalk_20241014_140057516_03](https://github.com/user-attachments/assets/7b80353e-d717-4c74-92dc-0339642a552c)
-![매트랩 전개](https://github.com/user-attachments/assets/b1b8587c-6984-4952-b925-3964d5e7d027)
+![KakaoTalk_20241014_143843199_02](https://github.com/user-attachments/assets/fd19c0f5-b412-4d5a-92ff-703caa7149f8)
+매트랩으로 계산하면 
+<img width="844" alt="11" src="https://github.com/user-attachments/assets/c67e8b67-b901-4d83-b261-0ce4605b14ce">
 
-![KakaoTalk_20241014_140057516_04](https://github.com/user-attachments/assets/2039d786-a224-46a8-bf3a-3ab3956c73dd)
 
+![KakaoTalk_20241014_143843199_03](https://github.com/user-attachments/assets/7377efeb-6c79-41d2-ae2b-d14f29f3b1dc)
+매트랩 계산 
+<img width="404" alt="22" src="https://github.com/user-attachments/assets/482c1b27-ff9f-40cb-a716-beff5e85579b">
