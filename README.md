@@ -1,5 +1,4 @@
-# repository-basic
-2020732062 윤준식 Junsik Yoon
+2020732062 윤준식 
 ![KakaoTalk_20241014_141526440](https://github.com/user-attachments/assets/4290dda4-a4d8-4b2b-8d39-4605e164fb20)
 
 ![KakaoTalk_20241014_140057516_01](https://github.com/user-attachments/assets/814b2aa3-0593-4b74-bd26-bec001882b54)
